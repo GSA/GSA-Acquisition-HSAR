@@ -6,12 +6,10 @@
       <title class="- topic/title ">
          <ph props="autonumber">3030.201-5</ph> Waiver.</title>
       <conbody>
-         <p outputclass="List1">(a) The CPO is authorized to waive the applicability of the Cost Accounting Standards (CAS) under (FAR) 48 CFR 30.201-5(b). This authority may not be redelegated.
+         <p outputclass="List1">(a) The CPO is authorized to waive the applicability of the Cost Accounting Standards (CAS) under (FAR) 48 CFR 30.201–5(b). This authority may not be redelegated.
 </p>
-         <p outputclass="List1">(c) Waiver requests must conform to (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="Subpart_3001_70_T48_702826"
-                  href="Subpart_3001_70_T48_702826.dita#Subpart_3001_70_T48_702826">3001.70</xref>.</p>
+         <p outputclass="List1">(c) Waiver requests must conform to (HSAR) 48 CFR 3001.70.
+</p>
       </conbody>
    </concept>
 </dita>

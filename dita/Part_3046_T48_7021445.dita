@@ -3,12 +3,12 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_3046_T48_7021445">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 3046</ph> - QUALITY ASSURANCE</title>
+      <title class="- topic/title ">PART 3046—QUALITY ASSURANCE
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
-                           5 U.S.C. 301-302, 41 U.S.C. 1303, 41 U.S.C. 1707, 41 U.S.C. 1702, and 48 CFR subpart 1.3.
+                           5 U.S.C. 301–302, 41 U.S.C. 1303, 41 U.S.C. 1707, 41 U.S.C. 1702, and 48 CFR subpart 1.3.
 
 
 
@@ -32,7 +32,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3046_7_T48_70214451.dita#Subpart_3046_7_T48_70214451">Subpart 3046.7 - Warranties</xref>
+                        href="Subpart_3046_7_T48_70214451.dita#Subpart_3046_7_T48_70214451">Subpart 3046.7—Warranties</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

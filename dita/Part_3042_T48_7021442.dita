@@ -3,12 +3,12 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_3042_T48_7021442">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 3042</ph> - CONTRACT ADMINISTRATION AND AUDIT SERVICES</title>
+      <title class="- topic/title ">PART 3042—CONTRACT ADMINISTRATION AND AUDIT SERVICES
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
-                           5 U.S.C. 301-302, 41 U.S.C. 1303, 41 U.S.C. 1707, 41 U.S.C. 1702, and 48 CFR subpart 1.3.
+                           5 U.S.C. 301–302, 41 U.S.C. 1303, 41 U.S.C. 1707, 41 U.S.C. 1702, and 48 CFR subpart 1.3.
 
 
 
@@ -32,7 +32,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3042_15_T48_70214421.dita#Subpart_3042_15_T48_70214421">Subpart 3042.15 - Contractor Performance Information</xref>
+                        href="Subpart_3042_15_T48_70214421.dita#Subpart_3042_15_T48_70214421">Subpart 3042.15—Contractor Performance Information</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -46,7 +46,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3042_70_T48_70214422.dita#Subpart_3042_70_T48_70214422">Subpart 3042.70 - Contracting Officer's Representative</xref>
+                        href="Subpart_3042_70_T48_70214422.dita#Subpart_3042_70_T48_70214422">Subpart 3042.70—Contracting Officer's Representative</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

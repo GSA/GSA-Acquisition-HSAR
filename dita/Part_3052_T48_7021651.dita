@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3052_T48_7021651">
+      <title class="- topic/title ">PART 3052—SOLICITATION PROVISIONS AND CONTRACT CLAUSES
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301-302, 6 U.S.C. 453b, 41 U.S.C. 1707, 41 U.S.C. 1702, 41 U.S.C. 1303(a)(2), 48 CFR part 1, subpart 1.3. and DHS Delegation Number 0702.
+
+
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           68 FR 67871, Dec. 4, 2003, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3052_1_T48_70216511.dita#Subpart_3052_1_T48_70216511">Subpart 3052.1—Instructions for Using Provisions and Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_101_T48_7021651111.dita#Section_3052_101_T48_7021651111">3052.101 Using part 3052.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3052_2_T48_70216512.dita#Subpart_3052_2_T48_70216512">Subpart 3052.2—Text of Provisions and Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_203-70_T48_7021651211.dita#Section_3052_203-70_T48_7021651211">3052.203-70 Instructions for Contractor Disclosure of Violations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_204-70_T48_7021651212.dita#Section_3052_204-70_T48_7021651212">3052.204-70 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_204-71_T48_7021651213.dita#Section_3052_204-71_T48_7021651213">3052.204-71 Contractor employee access.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_204-72_T48_7021651214.dita#Section_3052_204-72_T48_7021651214">3052.204-72 Safeguarding of controlled unclassified information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_204-73_T48_7021651215.dita#Section_3052_204-73_T48_7021651215">3052.204-73 Notification and credit monitoring requirements for Personally Identifiable Information incidents.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_205-70_T48_7021651216.dita#Section_3052_205-70_T48_7021651216">3052.205-70 Advertisements, Publicizing Awards, and Releases.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_209-70_T48_7021651217.dita#Section_3052_209-70_T48_7021651217">3052.209-70 Prohibition on contracts with corporate expatriates.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_209-71_T48_7021651218.dita#Section_3052_209-71_T48_7021651218">3052.209-71 [Reserved] ]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_209-72_T48_7021651219.dita#Section_3052_209-72_T48_7021651219">3052.209-72 Organizational conflict of interest.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_209-73_T48_70216512110.dita#Section_3052_209-73_T48_70216512110">3052.209-73 Limitation of future contracting.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_209-74_T48_70216512111.dita#Section_3052_209-74_T48_70216512111">3052.209-74 Limitations on contractors acting as lead system integrators.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_209-75_T48_70216512112.dita#Section_3052_209-75_T48_70216512112">3052.209-75 Prohibited financial interests for lead system integrators.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_209-76_T48_70216512113.dita#Section_3052_209-76_T48_70216512113">3052.209-76 Prohibition on Federal Protective Service guard services contracts with business concerns owned, controlled, or operated by an individual convicted of a felony.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_211-70_T48_70216512114.dita#Section_3052_211-70_T48_70216512114">3052.211-70 Index for specifications.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_212-70_T48_70216512115.dita#Section_3052_212-70_T48_70216512115">3052.212-70 Contract Terms and Conditions Applicable to DHS Acquisition of Commercial Items.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_215-70_T48_70216512116.dita#Section_3052_215-70_T48_70216512116">3052.215-70 Key personnel or facilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_216-70_T48_70216512117.dita#Section_3052_216-70_T48_70216512117">3052.216-70 Evaluation of offers subject to an economic price adjustment clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_216-71_T48_70216512118.dita#Section_3052_216-71_T48_70216512118">3052.216-71 Determination of award fee.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_216-72_T48_70216512119.dita#Section_3052_216-72_T48_70216512119">3052.216-72 Performance evaluation plan.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_216-73_T48_70216512120.dita#Section_3052_216-73_T48_70216512120">3052.216-73 Distribution of award fee.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_216-74_T48_70216512121.dita#Section_3052_216-74_T48_70216512121">3052.216-74 Settlement of letter contract.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-90_T48_70216512122.dita#Section_3052_217-90_T48_70216512122">3052.217-90 Delivery and Shifting of Vessel (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-91_T48_70216512123.dita#Section_3052_217-91_T48_70216512123">3052.217-91 Performance (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-92_T48_70216512124.dita#Section_3052_217-92_T48_70216512124">3052.217-92 Inspection and manner of doing work (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-93_T48_70216512125.dita#Section_3052_217-93_T48_70216512125">3052.217-93 Subcontracts (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-94_T48_70216512126.dita#Section_3052_217-94_T48_70216512126">3052.217-94 Lay days (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-95_T48_70216512127.dita#Section_3052_217-95_T48_70216512127">3052.217-95 Liability and insurance (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-96_T48_70216512128.dita#Section_3052_217-96_T48_70216512128">3052.217-96 Title (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-97_T48_70216512129.dita#Section_3052_217-97_T48_70216512129">3052.217-97 Discharge of liens (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-98_T48_70216512130.dita#Section_3052_217-98_T48_70216512130">3052.217-98 Delays (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-99_T48_70216512131.dita#Section_3052_217-99_T48_70216512131">3052.217-99 Department of Labor safety and health regulations for ship repairing (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_217-100_T48_70216512132.dita#Section_3052_217-100_T48_70216512132">3052.217-100 Guarantee (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_219-71_T48_70216512133.dita#Section_3052_219-71_T48_70216512133">3052.219-71 DHS mentor-protégé program.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_219-72_T48_70216512134.dita#Section_3052_219-72_T48_70216512134">3052.219-72 Evaluation of prime contractor participation in the DHS mentor-protégé program.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_222-70_T48_70216512135.dita#Section_3052_222-70_T48_70216512135">3052.222-70 Strikes or picketing affecting timely completion of the contract work.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_222-71_T48_70216512136.dita#Section_3052_222-71_T48_70216512136">3052.222-71 Strikes or picketing affecting access to a DHS facility.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_222-90_T48_70216512137.dita#Section_3052_222-90_T48_70216512137">3052.222-90 Local hire (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_223-70_T48_70216512138.dita#Section_3052_223-70_T48_70216512138">3052.223-70 Removal or disposal of hazardous substances—applicable licenses and permits.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_223-90_T48_70216512139.dita#Section_3052_223-90_T48_70216512139">3052.223-90 Accident and fire reporting (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_225-70_T48_70216512140.dita#Section_3052_225-70_T48_70216512140">3052.225-70 Requirement for Use of Certain Domestic Commodities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_228-70_T48_70216512141.dita#Section_3052_228-70_T48_70216512141">3052.228-70 Insurance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_228-90_T48_70216512142.dita#Section_3052_228-90_T48_70216512142">3052.228-90 Notification of Miller Act payment bond protection (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_228-91_T48_70216512143.dita#Section_3052_228-91_T48_70216512143">3052.228-91 Loss of or damage to leased aircraft (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_228-92_T48_70216512144.dita#Section_3052_228-92_T48_70216512144">3052.228-92 Fair market value of aircraft (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_228-93_T48_70216512145.dita#Section_3052_228-93_T48_70216512145">3052.228-93 Risk and indemnities (USCG).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_231-70_T48_70216512146.dita#Section_3052_231-70_T48_70216512146">3052.231-70 Precontract costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_235-70_T48_70216512147.dita#Section_3052_235-70_T48_70216512147">3052.235-70 Dissemination of information—educational institutions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_236-70_T48_70216512148.dita#Section_3052_236-70_T48_70216512148">3052.236-70 Special precautions for work at operating airports.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_242-70_T48_70216512149.dita#Section_3052_242-70_T48_70216512149">3052.242-70 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_242-72_T48_70216512150.dita#Section_3052_242-72_T48_70216512150">3052.242-72 Contracting officer's representative.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_247-70_T48_70216512151.dita#Section_3052_247-70_T48_70216512151">3052.247-70 F.o.b. origin information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_247-71_T48_70216512152.dita#Section_3052_247-71_T48_70216512152">3052.247-71 F.o.b. origin only.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3052_247-72_T48_70216512153.dita#Section_3052_247-72_T48_70216512153">3052.247-72 F.o.b. destination only.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section__3052_249-90_T48_70216512154.dita#Section__3052_249-90_T48_70216512154">§ 3052.249-90   3052.249-90 Contract termination (USCG).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

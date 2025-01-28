@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3001_304_T48_70292216">
+      <title class="- topic/title ">
+         <ph props="autonumber">3001.304</ph> Agency control and compliance procedures.</title>
+      <conbody>
+         <p outputclass="List1">(a) The HSAR is under the direct oversight and control of the DHS, Office of the Chief Procurement Officer (OCPO), which is responsible for evaluation, review, and issuance of all Department-wide acquisition regulations and guidance in accordance with DHS regulatory clearance procedures, as applicable. Each HCA may supplement the HSAR with internal Component issued guidance that does not go beyond internal operating procedures and does not have a significant cost or administrative impact on contractors or offerors. Supplementation should be kept to a minimum. Any Component that seeks a component-specific regulation or that intends to use a solicitation provision or a contract clause on a repetitive basis must prepare and coordinate a draft rule with Component legal counsel and obtain HCA approval, which is non delegable. The HCA must forward the draft rule to the CPO for concurrence prior to further action in accordance with DHS regulatory clearance procedures. If approved, the CPO or designee, will sign the Component-specific regulation and it will be integrated into the HSAR.
+</p>
+         <p outputclass="List1">(b) [Reserved]
+</p>
+         <p outputclass="List1">(c) The CPO is responsible for evaluating all proposed regulatory coverage in the HSAR to determine if the substance could apply to other agencies and to make recommendation for inclusion in the FAR.
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>
